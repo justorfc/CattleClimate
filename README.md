@@ -16,18 +16,15 @@ Visualizador interactivo de datos meteorológicos para calcular y analizar varia
 
 ```
 
-CattleClimate/
-├── app.py                        # Aplicación principal en Streamlit
-├── datos/
-│   ├── hidrometeorologicos/     # Archivos .data con variables meteorológicas
-│   ├── radiacion/               # (Opcional) Archivos de radiación
-│   ├── Glosario\_Variables.xlsx  # Glosario con etiquetas, unidades y parámetros
-│   ├── CNE\_IDEAM.xlsx           # Catálogo de estaciones del IDEAM
-├── README.md                    # Este archivo
-├── requirements.txt             # Librerías requeridas
-├── .gitignore                   # Ignora archivos temporales
-
-````
+- `app.py` – Aplicación principal en Streamlit.
+- `datos/`
+  - `hidrometeorologicos/` – Archivos .data
+  - `radiacion/` – (opcional)
+  - `Glosario_Variables.xlsx`
+  - `CNE_IDEAM.xlsx`
+- `README.md`
+- `requirements.txt`
+- `.gitignore`````
 
 ---
 
