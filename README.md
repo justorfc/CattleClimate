@@ -1,8 +1,5 @@
----
-
 ## 📘 `README.md`
 
-```markdown
 # 🌡️ CattleClimate
 
 Visualizador interactivo de datos meteorológicos para calcular y analizar variables relevantes al estrés térmico en ganado vacuno. Desarrollado con [Streamlit](https://streamlit.io/) y pensado para investigadores, estudiantes y técnicos del semillero AGRISOS BIOCLIMÁTICA.
@@ -10,11 +7,7 @@ Visualizador interactivo de datos meteorológicos para calcular y analizar varia
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red?style=for-the-badge&logo=streamlit)
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python)
 
----
-
 ## 📂 Estructura del proyecto
-
-```
 
 - `app.py` – Aplicación principal en Streamlit.
 - `datos/`
@@ -25,8 +18,6 @@ Visualizador interactivo de datos meteorológicos para calcular y analizar varia
 - `README.md`
 - `requirements.txt`
 - `.gitignore`````
-
----
 
 ## 🚀 ¿Cómo ejecutar la aplicación?
 
@@ -58,8 +49,6 @@ streamlit run app.py
 
 5. Abre en tu navegador: `http://localhost:8501`
 
----
-
 ## 📊 Funcionalidades principales
 
 * Visualización de archivos `.data` con fechas y valores meteorológicos.
@@ -69,20 +58,11 @@ streamlit run app.py
 * Promedios mensuales y anuales con gráficos.
 * Descarga de datos filtrados en formato CSV.
 
----
-
 ## 🧑‍💻 Créditos
 
 Desarrollado por el profesor Justo Fuentes y el semillero AGRISOS BIOCLIMÁTICA, en colaboración con el profesor Quelbis Quintero (Universidad de Sucre).
-
----
 
 ## 📝 Licencia
 
 Este proyecto es de uso educativo y puede ser reutilizado y modificado citando la fuente.
 
-```
-
----
-
-```
