@@ -1,6 +1,3 @@
-¡Excelente! 🎉
-Aquí tienes un `README.md` bonito, funcional y adecuado para publicar tu repositorio `CattleClimate` en GitHub.
-
 ---
 
 ## 📘 `README.md`
@@ -91,7 +88,4 @@ Este proyecto es de uso educativo y puede ser reutilizado y modificado citando l
 
 ---
 
-📌 Puedes editar el nombre del autor, correo, o agregar tu logo institucional más adelante si lo deseas.
-
-¿Deseas también que el `README` tenga imágenes o GIFs con ejemplos de cómo se ve la app funcionando (capturas)?
 ```
