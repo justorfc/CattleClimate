@@ -65,4 +65,3 @@ Desarrollado por el profesor Justo Fuentes y el semillero AGRISOS BIOCLIMÁTICA,
 ## 📝 Licencia
 
 Este proyecto es de uso educativo y puede ser reutilizado y modificado citando la fuente.
-
