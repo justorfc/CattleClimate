@@ -1,6 +1,5 @@
-requirements_text = """streamlit
+streamlit
 pandas
 openpyxl
 matplotlib
 plotly
-"""
