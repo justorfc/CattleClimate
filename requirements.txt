@@ -1,0 +1,6 @@
+requirements_text = """streamlit
+pandas
+openpyxl
+matplotlib
+plotly
+"""
